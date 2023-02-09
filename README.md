@@ -3,9 +3,14 @@
 <br>Desenvolvedor Back-end em formação.</br>
 <br>Sempre em busca de conhecimento.</br>
 
-###<br>![](https://github-readme-stats.vercel.app/api?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Arthur-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arthur-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>![](https://github-readme-stats.vercel.app/api?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 <!--
