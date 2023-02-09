@@ -1,8 +1,13 @@
-### Olá eu sou Arhur! 👋
-
-
+### Sobre mim:  👋
+23 anos 
+<br>Desenvolvedor Back-end em formação.</br>
+<br>Sempre em busca de conhecimento.
 
 ![](https://github-readme-stats.vercel.app/api?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 <!--
 **ArthurRocha2100/ArthurRocha2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
