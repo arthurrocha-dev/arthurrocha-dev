@@ -16,6 +16,8 @@
 
 <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 
+<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
+
 
 
 <!--
