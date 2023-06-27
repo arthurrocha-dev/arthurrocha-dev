@@ -2,7 +2,7 @@
 <br>Desenvolvedor full-stack em formação.</br>
 <br>Sempre em busca de conhecimento.</br>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com%2Fin%2Farthur-rocha-5a052221b)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-rocha-5a052221b)
 
 
 ## Tecnologias:
