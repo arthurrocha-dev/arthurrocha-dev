@@ -5,7 +5,6 @@
 ![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farthur-rocha-5a052221b)
 
 
-
 ## Tecnologias:
 
 ![Html5](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
