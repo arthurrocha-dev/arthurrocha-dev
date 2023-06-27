@@ -21,10 +21,10 @@
 
 ## Status:
 ![Estatisticas](https://github-readme-stats.vercel.app/api?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![Estatisticas](https://github-readme-streak-stats.herokuapp.com/?user=ArthurRocha2100&theme=dark&hide_border=false)
 
-![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRocha2100&theme=dark&include_all_commits=true&count_private=true&count_weight=0.5)
 
 <!--
 **ArthurRocha2100/ArthurRocha2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
