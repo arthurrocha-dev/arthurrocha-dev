@@ -14,16 +14,14 @@
 ![SQl Oracle](https://img.shields.io/badge/sql%20oracle-F80000?style=for-the-badge&logo=oracle)
 ![My SQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## Status:
 ![Estatisticas](https://github-readme-stats.vercel.app/api?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ![Estatisticas](https://github-readme-streak-stats.herokuapp.com/?user=ArthurRocha2100&theme=dark&hide_border=false)
-
 ![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRocha2100&theme=dark&include_all_commits=true&count_private=true&count_weight=0.5)
 
 <!--
