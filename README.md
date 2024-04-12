@@ -2,7 +2,7 @@
 <br>Desenvolvedor full-stack em formação.</br>
 <br>Sempre em busca de conhecimento.</br>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-rocha-5a052221b)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurrocha-dev)
 
 
 ## Tecnologias:
@@ -21,9 +21,9 @@
 
 
 ## Status:
-![Estatisticas](https://github-readme-stats.vercel.app/api?username=ArthurRocha2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Estatisticas](https://github-readme-streak-stats.herokuapp.com/?user=ArthurRocha2100&theme=dark&hide_border=false)
-![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRocha2100&theme=dark&include_all_commits=true&count_private=true&count_weight=0.5)
+![Estatisticas](https://github-readme-stats.vercel.app/api?username=arthurrocha-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Estatisticas](https://github-readme-streak-stats.herokuapp.com/?user=arthurrocha-dev&theme=dark&hide_border=false)
+![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrocha-dev&theme=dark&include_all_commits=true&count_private=true&count_weight=0.5)
 
 <!--
 **ArthurRocha2100/ArthurRocha2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
