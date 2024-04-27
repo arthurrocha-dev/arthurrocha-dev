@@ -60,4 +60,6 @@
 ## Contatos:
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurrocha-dev)
 
+![snake gif](https://github.com/arthurrocha-dev/arthurrocha-dev/blob/output/github-contribution-grid-snake.gif)
+
 
