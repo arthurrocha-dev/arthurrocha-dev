@@ -5,6 +5,20 @@
 ## Tecnologias:
 <div align="center">
 <a href="https://react.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="logo do React.js" width="70"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="logo do Bootstrap" width="70"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="logo do TypeScript" width="70"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="logo JavaScript" width="70"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="logo HTML" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bem.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="70"></a>
+<a href="# target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="70"></a>
 </div>
 
 
