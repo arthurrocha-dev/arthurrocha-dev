@@ -38,17 +38,26 @@
     <img src="https://i.postimg.cc/DwKvNk88/Screenshot-from-2024-04-27-04-42-15.png"/>
   </a>
   <br>
-  <a href="https://arthurrocha.dev.br/" target="_blank">Visite meu portfólio</a>
+  <br>
+  <a href="https://arthurrocha.dev.br/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8C%90%20Visitar-gray?style=flat&cacheSeconds=https%3A%2F%2Farthurrocha.dev.br%2F">
+</a>
+
+  
 </div>
+
 
 
 ## Status:
 ![card](https://github-readme-stats.vercel.app/api?username=arthurrocha-dev&theme=tokyonight)
-<br>
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrocha-dev&layout=compact&theme=tokyonight)
+![card](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrocha-dev&layout=compact&theme=tokyonight)
 
 
 ## Github Trophys:
-<img src="https://github-profile-trophy.vercel.app/?username=arthurrocha-dev&theme=radical" alt="cauandzn" />
-### Contatos:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arthurrocha-dev&theme=radical"/>
+</div>
+
+## Contatos:
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurrocha-dev)
+
+
