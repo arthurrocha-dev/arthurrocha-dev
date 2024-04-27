@@ -4,7 +4,7 @@
 
 ## Tecnologias:
 <div align="center">
-<a href="https://react.dev/" targit="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="logo do React.js" width="70"></a>
+<a href="https://react.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="logo do React.js" width="70"></a>
 </div>
 
 
