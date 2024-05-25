@@ -30,6 +30,10 @@
 <a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="70"></a>
 <a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="70"></a>
 <a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="70"></a>
+<a href="#" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" width="70"></a>
+
+  
 </div>
 
 ## Portfólio:
