@@ -1,5 +1,4 @@
-[[![Banner-perfil-linkedin-1.gif](https://i.postimg.cc/wvV4PKMp/Banner-perfil-linkedin-1.gif)](https://postimg.cc/MMnYMF1P)
-](url)
+
 <div align="center">
   <h1 >Iaê 🤙, eu sou Arthur!</h1>
   <img src="https://komarev.com/ghpvc/?username=arthurrocha-dev&style=for-the-badge&label=Profile%20views&color=313b4a" />
